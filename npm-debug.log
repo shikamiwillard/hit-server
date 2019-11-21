@@ -1,0 +1,1133 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/home/shikami/.nvm/versions/node/v6.8.0/bin/node',
+1 verbose cli   '/home/shikami/.nvm/versions/node/v6.8.0/bin/npm',
+1 verbose cli   'install' ]
+2 info using npm@3.10.8
+3 info using node@v6.8.0
+4 silly loadCurrentTree Starting
+5 silly install loadCurrentTree
+6 silly install readLocalPackageData
+7 silly install normalizeTree
+8 silly loadCurrentTree Finishing
+9 silly loadIdealTree Starting
+10 silly install loadIdealTree
+11 silly cloneCurrentTree Starting
+12 silly install cloneCurrentTreeToIdealTree
+13 silly cloneCurrentTree Finishing
+14 silly loadShrinkwrap Starting
+15 silly install loadShrinkwrap
+16 silly loadShrinkwrap Finishing
+17 silly loadAllDepsIntoIdealTree Starting
+18 silly install loadAllDepsIntoIdealTree
+19 silly fetchNamedPackageData cors
+20 silly mapToRegistry name cors
+21 silly mapToRegistry using default registry
+22 silly mapToRegistry registry https://npmjs.slade360.co.ke/
+23 silly mapToRegistry data Result {
+23 silly mapToRegistry   raw: 'cors',
+23 silly mapToRegistry   scope: null,
+23 silly mapToRegistry   escapedName: 'cors',
+23 silly mapToRegistry   name: 'cors',
+23 silly mapToRegistry   rawSpec: '',
+23 silly mapToRegistry   spec: 'latest',
+23 silly mapToRegistry   type: 'tag' }
+24 silly mapToRegistry uri https://npmjs.slade360.co.ke/cors
+25 silly fetchNamedPackageData express
+26 silly mapToRegistry name express
+27 silly mapToRegistry using default registry
+28 silly mapToRegistry registry https://npmjs.slade360.co.ke/
+29 silly mapToRegistry data Result {
+29 silly mapToRegistry   raw: 'express',
+29 silly mapToRegistry   scope: null,
+29 silly mapToRegistry   escapedName: 'express',
+29 silly mapToRegistry   name: 'express',
+29 silly mapToRegistry   rawSpec: '',
+29 silly mapToRegistry   spec: 'latest',
+29 silly mapToRegistry   type: 'tag' }
+30 silly mapToRegistry uri https://npmjs.slade360.co.ke/express
+31 silly fetchNamedPackageData express-graphql
+32 silly mapToRegistry name express-graphql
+33 silly mapToRegistry using default registry
+34 silly mapToRegistry registry https://npmjs.slade360.co.ke/
+35 silly mapToRegistry data Result {
+35 silly mapToRegistry   raw: 'express-graphql',
+35 silly mapToRegistry   scope: null,
+35 silly mapToRegistry   escapedName: 'express-graphql',
+35 silly mapToRegistry   name: 'express-graphql',
+35 silly mapToRegistry   rawSpec: '',
+35 silly mapToRegistry   spec: 'latest',
+35 silly mapToRegistry   type: 'tag' }
+36 silly mapToRegistry uri https://npmjs.slade360.co.ke/express-graphql
+37 silly fetchNamedPackageData graphql
+38 silly mapToRegistry name graphql
+39 silly mapToRegistry using default registry
+40 silly mapToRegistry registry https://npmjs.slade360.co.ke/
+41 silly mapToRegistry data Result {
+41 silly mapToRegistry   raw: 'graphql',
+41 silly mapToRegistry   scope: null,
+41 silly mapToRegistry   escapedName: 'graphql',
+41 silly mapToRegistry   name: 'graphql',
+41 silly mapToRegistry   rawSpec: '',
+41 silly mapToRegistry   spec: 'latest',
+41 silly mapToRegistry   type: 'tag' }
+42 silly mapToRegistry uri https://npmjs.slade360.co.ke/graphql
+43 silly fetchNamedPackageData lodash
+44 silly mapToRegistry name lodash
+45 silly mapToRegistry using default registry
+46 silly mapToRegistry registry https://npmjs.slade360.co.ke/
+47 silly mapToRegistry data Result {
+47 silly mapToRegistry   raw: 'lodash',
+47 silly mapToRegistry   scope: null,
+47 silly mapToRegistry   escapedName: 'lodash',
+47 silly mapToRegistry   name: 'lodash',
+47 silly mapToRegistry   rawSpec: '',
+47 silly mapToRegistry   spec: 'latest',
+47 silly mapToRegistry   type: 'tag' }
+48 silly mapToRegistry uri https://npmjs.slade360.co.ke/lodash
+49 silly fetchNamedPackageData mongoose
+50 silly mapToRegistry name mongoose
+51 silly mapToRegistry using default registry
+52 silly mapToRegistry registry https://npmjs.slade360.co.ke/
+53 silly mapToRegistry data Result {
+53 silly mapToRegistry   raw: 'mongoose',
+53 silly mapToRegistry   scope: null,
+53 silly mapToRegistry   escapedName: 'mongoose',
+53 silly mapToRegistry   name: 'mongoose',
+53 silly mapToRegistry   rawSpec: '',
+53 silly mapToRegistry   spec: 'latest',
+53 silly mapToRegistry   type: 'tag' }
+54 silly mapToRegistry uri https://npmjs.slade360.co.ke/mongoose
+55 silly fetchNamedPackageData nodemon
+56 silly mapToRegistry name nodemon
+57 silly mapToRegistry using default registry
+58 silly mapToRegistry registry https://npmjs.slade360.co.ke/
+59 silly mapToRegistry data Result {
+59 silly mapToRegistry   raw: 'nodemon',
+59 silly mapToRegistry   scope: null,
+59 silly mapToRegistry   escapedName: 'nodemon',
+59 silly mapToRegistry   name: 'nodemon',
+59 silly mapToRegistry   rawSpec: '',
+59 silly mapToRegistry   spec: 'latest',
+59 silly mapToRegistry   type: 'tag' }
+60 silly mapToRegistry uri https://npmjs.slade360.co.ke/nodemon
+61 silly fetchNamedPackageData serve-favicon
+62 silly mapToRegistry name serve-favicon
+63 silly mapToRegistry using default registry
+64 silly mapToRegistry registry https://npmjs.slade360.co.ke/
+65 silly mapToRegistry data Result {
+65 silly mapToRegistry   raw: 'serve-favicon',
+65 silly mapToRegistry   scope: null,
+65 silly mapToRegistry   escapedName: 'serve-favicon',
+65 silly mapToRegistry   name: 'serve-favicon',
+65 silly mapToRegistry   rawSpec: '',
+65 silly mapToRegistry   spec: 'latest',
+65 silly mapToRegistry   type: 'tag' }
+66 silly mapToRegistry uri https://npmjs.slade360.co.ke/serve-favicon
+67 verbose request uri https://npmjs.slade360.co.ke/serve-favicon
+68 verbose request no auth needed
+69 info attempt registry request try #1 at 3:43:31 AM
+70 verbose request using bearer token for auth
+71 verbose request id d279d78aa5bf9cec
+72 http request GET https://npmjs.slade360.co.ke/serve-favicon
+73 verbose request uri https://npmjs.slade360.co.ke/cors
+74 verbose request no auth needed
+75 info attempt registry request try #1 at 3:43:31 AM
+76 verbose request using bearer token for auth
+77 verbose etag "82bc2f1e57234247b598490237243330"
+78 http request GET https://npmjs.slade360.co.ke/cors
+79 verbose request uri https://npmjs.slade360.co.ke/graphql
+80 verbose request no auth needed
+81 info attempt registry request try #1 at 3:43:31 AM
+82 verbose request using bearer token for auth
+83 verbose etag "e850c19de455aa222f1bad3f05cfc0f8"
+84 http request GET https://npmjs.slade360.co.ke/graphql
+85 verbose request uri https://npmjs.slade360.co.ke/express-graphql
+86 verbose request no auth needed
+87 info attempt registry request try #1 at 3:43:31 AM
+88 verbose request using bearer token for auth
+89 verbose etag "7d1e85e28e25111e4a6b273db07e7435"
+90 http request GET https://npmjs.slade360.co.ke/express-graphql
+91 verbose request uri https://npmjs.slade360.co.ke/express
+92 verbose request no auth needed
+93 info attempt registry request try #1 at 3:43:31 AM
+94 verbose request using bearer token for auth
+95 verbose etag "d6006607d4264870bd4706c6bbf2197c"
+96 http request GET https://npmjs.slade360.co.ke/express
+97 verbose request uri https://npmjs.slade360.co.ke/lodash
+98 verbose request no auth needed
+99 info attempt registry request try #1 at 3:43:31 AM
+100 verbose request using bearer token for auth
+101 verbose etag "21c030f8a434712339fe5f1faa609a19"
+102 http request GET https://npmjs.slade360.co.ke/lodash
+103 info retry will retry, error on last attempt: Error: getaddrinfo EAI_AGAIN npmjs.slade360.co.ke:443
+104 verbose request uri https://npmjs.slade360.co.ke/nodemon
+105 verbose request no auth needed
+106 info attempt registry request try #1 at 3:43:41 AM
+107 verbose request using bearer token for auth
+108 verbose etag "9645daac2b1e82d938424596bdfc647c"
+109 http request GET https://npmjs.slade360.co.ke/nodemon
+110 verbose request uri https://npmjs.slade360.co.ke/mongoose
+111 verbose request no auth needed
+112 info attempt registry request try #1 at 3:43:41 AM
+113 verbose request using bearer token for auth
+114 verbose etag "e705556253d29391cc29963c258bc3a7"
+115 http request GET https://npmjs.slade360.co.ke/mongoose
+116 info retry will retry, error on last attempt: Error: getaddrinfo EAI_AGAIN npmjs.slade360.co.ke:443
+117 info retry will retry, error on last attempt: Error: getaddrinfo EAI_AGAIN npmjs.slade360.co.ke:443
+118 info retry will retry, error on last attempt: Error: getaddrinfo EAI_AGAIN npmjs.slade360.co.ke:443
+119 info attempt registry request try #2 at 3:43:51 AM
+120 verbose request using bearer token for auth
+121 http request GET https://npmjs.slade360.co.ke/serve-favicon
+122 info retry will retry, error on last attempt: Error: getaddrinfo EAI_AGAIN npmjs.slade360.co.ke:443
+123 info retry will retry, error on last attempt: Error: getaddrinfo EAI_AGAIN npmjs.slade360.co.ke:443
+124 info attempt registry request try #2 at 3:43:51 AM
+125 verbose request using bearer token for auth
+126 verbose etag "82bc2f1e57234247b598490237243330"
+127 http request GET https://npmjs.slade360.co.ke/cors
+128 info attempt registry request try #2 at 3:43:51 AM
+129 verbose request using bearer token for auth
+130 verbose etag "e850c19de455aa222f1bad3f05cfc0f8"
+131 http request GET https://npmjs.slade360.co.ke/graphql
+132 info attempt registry request try #2 at 3:43:51 AM
+133 verbose request using bearer token for auth
+134 verbose etag "7d1e85e28e25111e4a6b273db07e7435"
+135 http request GET https://npmjs.slade360.co.ke/express-graphql
+136 info retry will retry, error on last attempt: Error: getaddrinfo EAI_AGAIN npmjs.slade360.co.ke:443
+137 info retry will retry, error on last attempt: Error: getaddrinfo EAI_AGAIN npmjs.slade360.co.ke:443
+138 info attempt registry request try #2 at 3:44:01 AM
+139 verbose request using bearer token for auth
+140 verbose etag "d6006607d4264870bd4706c6bbf2197c"
+141 http request GET https://npmjs.slade360.co.ke/express
+142 info retry will retry, error on last attempt: Error: getaddrinfo EAI_AGAIN npmjs.slade360.co.ke:443
+143 info attempt registry request try #2 at 3:44:01 AM
+144 verbose request using bearer token for auth
+145 verbose etag "21c030f8a434712339fe5f1faa609a19"
+146 http request GET https://npmjs.slade360.co.ke/lodash
+147 info attempt registry request try #2 at 3:44:01 AM
+148 verbose request using bearer token for auth
+149 verbose etag "9645daac2b1e82d938424596bdfc647c"
+150 http request GET https://npmjs.slade360.co.ke/nodemon
+151 info attempt registry request try #2 at 3:44:01 AM
+152 verbose request using bearer token for auth
+153 verbose etag "e705556253d29391cc29963c258bc3a7"
+154 http request GET https://npmjs.slade360.co.ke/mongoose
+155 info retry will retry, error on last attempt: Error: getaddrinfo EAI_AGAIN npmjs.slade360.co.ke:443
+156 info retry will retry, error on last attempt: Error: getaddrinfo EAI_AGAIN npmjs.slade360.co.ke:443
+157 info retry will retry, error on last attempt: Error: getaddrinfo EAI_AGAIN npmjs.slade360.co.ke:443
+158 info retry will retry, error on last attempt: Error: getaddrinfo EAI_AGAIN npmjs.slade360.co.ke:443
+159 info retry will retry, error on last attempt: Error: getaddrinfo EAI_AGAIN npmjs.slade360.co.ke:443
+160 info retry will retry, error on last attempt: Error: getaddrinfo EAI_AGAIN npmjs.slade360.co.ke:443
+161 info retry will retry, error on last attempt: Error: getaddrinfo EAI_AGAIN npmjs.slade360.co.ke:443
+162 info attempt registry request try #3 at 3:45:01 AM
+163 verbose request using bearer token for auth
+164 http request GET https://npmjs.slade360.co.ke/serve-favicon
+165 info attempt registry request try #3 at 3:45:01 AM
+166 verbose request using bearer token for auth
+167 verbose etag "82bc2f1e57234247b598490237243330"
+168 http request GET https://npmjs.slade360.co.ke/cors
+169 info attempt registry request try #3 at 3:45:01 AM
+170 verbose request using bearer token for auth
+171 verbose etag "e850c19de455aa222f1bad3f05cfc0f8"
+172 http request GET https://npmjs.slade360.co.ke/graphql
+173 info attempt registry request try #3 at 3:45:01 AM
+174 verbose request using bearer token for auth
+175 verbose etag "7d1e85e28e25111e4a6b273db07e7435"
+176 http request GET https://npmjs.slade360.co.ke/express-graphql
+177 info attempt registry request try #3 at 3:45:11 AM
+178 verbose request using bearer token for auth
+179 verbose etag "d6006607d4264870bd4706c6bbf2197c"
+180 http request GET https://npmjs.slade360.co.ke/express
+181 silly fetchPackageMetaData Error: getaddrinfo EAI_AGAIN npmjs.slade360.co.ke:443
+181 silly fetchPackageMetaData     at Object.exports._errnoException (util.js:1026:11)
+181 silly fetchPackageMetaData     at errnoException (dns.js:33:15)
+181 silly fetchPackageMetaData     at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:76:26)
+181 silly fetchPackageMetaData  error for serve-favicon@^2.5.0 { Error: getaddrinfo EAI_AGAIN npmjs.slade360.co.ke:443
+181 silly fetchPackageMetaData     at Object.exports._errnoException (util.js:1026:11)
+181 silly fetchPackageMetaData     at errnoException (dns.js:33:15)
+181 silly fetchPackageMetaData     at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:76:26)
+181 silly fetchPackageMetaData   code: 'EAI_AGAIN',
+181 silly fetchPackageMetaData   errno: 'EAI_AGAIN',
+181 silly fetchPackageMetaData   syscall: 'getaddrinfo',
+181 silly fetchPackageMetaData   hostname: 'npmjs.slade360.co.ke',
+181 silly fetchPackageMetaData   host: 'npmjs.slade360.co.ke',
+181 silly fetchPackageMetaData   port: 443 }
+182 info attempt registry request try #3 at 3:45:11 AM
+183 verbose request using bearer token for auth
+184 verbose etag "21c030f8a434712339fe5f1faa609a19"
+185 http request GET https://npmjs.slade360.co.ke/lodash
+186 info attempt registry request try #3 at 3:45:11 AM
+187 verbose request using bearer token for auth
+188 verbose etag "9645daac2b1e82d938424596bdfc647c"
+189 http request GET https://npmjs.slade360.co.ke/nodemon
+190 info attempt registry request try #3 at 3:45:11 AM
+191 verbose request using bearer token for auth
+192 verbose etag "e705556253d29391cc29963c258bc3a7"
+193 http request GET https://npmjs.slade360.co.ke/mongoose
+194 silly get cb [ 304, undefined ]
+195 verbose etag https://npmjs.slade360.co.ke/cors from cache
+196 verbose get saving cors to /home/shikami/.npm/npmjs.slade360.co.ke/cors/.cache.json
+197 verbose correctMkdir /home/shikami/.npm correctMkdir not in flight; initializing
+198 silly get cb [ 304, undefined ]
+199 verbose etag https://npmjs.slade360.co.ke/express-graphql from cache
+200 verbose get saving express-graphql to /home/shikami/.npm/npmjs.slade360.co.ke/express-graphql/.cache.json
+201 verbose correctMkdir /home/shikami/.npm correctMkdir already in flight; waiting
+202 silly get cb [ 304, undefined ]
+203 verbose etag https://npmjs.slade360.co.ke/graphql from cache
+204 verbose get saving graphql to /home/shikami/.npm/npmjs.slade360.co.ke/graphql/.cache.json
+205 verbose correctMkdir /home/shikami/.npm correctMkdir already in flight; waiting
+206 silly get cb [ 304, undefined ]
+207 verbose etag https://npmjs.slade360.co.ke/express from cache
+208 verbose get saving express to /home/shikami/.npm/npmjs.slade360.co.ke/express/.cache.json
+209 verbose correctMkdir /home/shikami/.npm correctMkdir not in flight; initializing
+210 silly resolveWithNewModule cors@2.8.5 checking installable status
+211 silly cache add args [ 'cors@^2.8.4', null ]
+212 verbose cache add spec cors@^2.8.4
+213 silly cache add parsed spec Result {
+213 silly cache add   raw: 'cors@^2.8.4',
+213 silly cache add   scope: null,
+213 silly cache add   escapedName: 'cors',
+213 silly cache add   name: 'cors',
+213 silly cache add   rawSpec: '^2.8.4',
+213 silly cache add   spec: '>=2.8.4 <3.0.0',
+213 silly cache add   type: 'range' }
+214 silly addNamed cors@>=2.8.4 <3.0.0
+215 verbose addNamed ">=2.8.4 <3.0.0" is a valid semver range for cors
+216 silly addNameRange { name: 'cors', range: '>=2.8.4 <3.0.0', hasData: false }
+217 silly mapToRegistry name cors
+218 silly mapToRegistry using default registry
+219 silly mapToRegistry registry https://npmjs.slade360.co.ke/
+220 silly mapToRegistry data Result {
+220 silly mapToRegistry   raw: 'cors',
+220 silly mapToRegistry   scope: null,
+220 silly mapToRegistry   escapedName: 'cors',
+220 silly mapToRegistry   name: 'cors',
+220 silly mapToRegistry   rawSpec: '',
+220 silly mapToRegistry   spec: 'latest',
+220 silly mapToRegistry   type: 'tag' }
+221 silly mapToRegistry uri https://npmjs.slade360.co.ke/cors
+222 verbose addNameRange registry:https://npmjs.slade360.co.ke/cors not in flight; fetching
+223 silly resolveWithNewModule express-graphql@0.6.12 checking installable status
+224 silly cache add args [ 'express-graphql@^0.6.12', null ]
+225 verbose cache add spec express-graphql@^0.6.12
+226 silly cache add parsed spec Result {
+226 silly cache add   raw: 'express-graphql@^0.6.12',
+226 silly cache add   scope: null,
+226 silly cache add   escapedName: 'express-graphql',
+226 silly cache add   name: 'express-graphql',
+226 silly cache add   rawSpec: '^0.6.12',
+226 silly cache add   spec: '>=0.6.12 <0.7.0',
+226 silly cache add   type: 'range' }
+227 silly addNamed express-graphql@>=0.6.12 <0.7.0
+228 verbose addNamed ">=0.6.12 <0.7.0" is a valid semver range for express-graphql
+229 silly addNameRange { name: 'express-graphql',
+229 silly addNameRange   range: '>=0.6.12 <0.7.0',
+229 silly addNameRange   hasData: false }
+230 silly mapToRegistry name express-graphql
+231 silly mapToRegistry using default registry
+232 silly mapToRegistry registry https://npmjs.slade360.co.ke/
+233 silly mapToRegistry data Result {
+233 silly mapToRegistry   raw: 'express-graphql',
+233 silly mapToRegistry   scope: null,
+233 silly mapToRegistry   escapedName: 'express-graphql',
+233 silly mapToRegistry   name: 'express-graphql',
+233 silly mapToRegistry   rawSpec: '',
+233 silly mapToRegistry   spec: 'latest',
+233 silly mapToRegistry   type: 'tag' }
+234 silly mapToRegistry uri https://npmjs.slade360.co.ke/express-graphql
+235 verbose addNameRange registry:https://npmjs.slade360.co.ke/express-graphql not in flight; fetching
+236 silly resolveWithNewModule graphql@0.13.2 checking installable status
+237 silly cache add args [ 'graphql@^0.13.2', null ]
+238 verbose cache add spec graphql@^0.13.2
+239 silly cache add parsed spec Result {
+239 silly cache add   raw: 'graphql@^0.13.2',
+239 silly cache add   scope: null,
+239 silly cache add   escapedName: 'graphql',
+239 silly cache add   name: 'graphql',
+239 silly cache add   rawSpec: '^0.13.2',
+239 silly cache add   spec: '>=0.13.2 <0.14.0',
+239 silly cache add   type: 'range' }
+240 silly addNamed graphql@>=0.13.2 <0.14.0
+241 verbose addNamed ">=0.13.2 <0.14.0" is a valid semver range for graphql
+242 silly addNameRange { name: 'graphql', range: '>=0.13.2 <0.14.0', hasData: false }
+243 silly mapToRegistry name graphql
+244 silly mapToRegistry using default registry
+245 silly mapToRegistry registry https://npmjs.slade360.co.ke/
+246 silly mapToRegistry data Result {
+246 silly mapToRegistry   raw: 'graphql',
+246 silly mapToRegistry   scope: null,
+246 silly mapToRegistry   escapedName: 'graphql',
+246 silly mapToRegistry   name: 'graphql',
+246 silly mapToRegistry   rawSpec: '',
+246 silly mapToRegistry   spec: 'latest',
+246 silly mapToRegistry   type: 'tag' }
+247 silly mapToRegistry uri https://npmjs.slade360.co.ke/graphql
+248 verbose addNameRange registry:https://npmjs.slade360.co.ke/graphql not in flight; fetching
+249 silly resolveWithNewModule express@4.16.4 checking installable status
+250 silly cache add args [ 'express@^4.16.3', null ]
+251 verbose cache add spec express@^4.16.3
+252 silly cache add parsed spec Result {
+252 silly cache add   raw: 'express@^4.16.3',
+252 silly cache add   scope: null,
+252 silly cache add   escapedName: 'express',
+252 silly cache add   name: 'express',
+252 silly cache add   rawSpec: '^4.16.3',
+252 silly cache add   spec: '>=4.16.3 <5.0.0',
+252 silly cache add   type: 'range' }
+253 silly addNamed express@>=4.16.3 <5.0.0
+254 verbose addNamed ">=4.16.3 <5.0.0" is a valid semver range for express
+255 silly addNameRange { name: 'express', range: '>=4.16.3 <5.0.0', hasData: false }
+256 silly mapToRegistry name express
+257 silly mapToRegistry using default registry
+258 silly mapToRegistry registry https://npmjs.slade360.co.ke/
+259 silly mapToRegistry data Result {
+259 silly mapToRegistry   raw: 'express',
+259 silly mapToRegistry   scope: null,
+259 silly mapToRegistry   escapedName: 'express',
+259 silly mapToRegistry   name: 'express',
+259 silly mapToRegistry   rawSpec: '',
+259 silly mapToRegistry   spec: 'latest',
+259 silly mapToRegistry   type: 'tag' }
+260 silly mapToRegistry uri https://npmjs.slade360.co.ke/express
+261 verbose addNameRange registry:https://npmjs.slade360.co.ke/express not in flight; fetching
+262 silly get cb [ 304, undefined ]
+263 verbose etag https://npmjs.slade360.co.ke/nodemon from cache
+264 verbose get saving nodemon to /home/shikami/.npm/npmjs.slade360.co.ke/nodemon/.cache.json
+265 verbose correctMkdir /home/shikami/.npm correctMkdir not in flight; initializing
+266 silly get cb [ 304, undefined ]
+267 verbose etag https://npmjs.slade360.co.ke/lodash from cache
+268 verbose get saving lodash to /home/shikami/.npm/npmjs.slade360.co.ke/lodash/.cache.json
+269 verbose correctMkdir /home/shikami/.npm correctMkdir not in flight; initializing
+270 silly get cb [ 304, undefined ]
+271 verbose etag https://npmjs.slade360.co.ke/mongoose from cache
+272 verbose get saving mongoose to /home/shikami/.npm/npmjs.slade360.co.ke/mongoose/.cache.json
+273 verbose correctMkdir /home/shikami/.npm correctMkdir not in flight; initializing
+274 verbose get https://npmjs.slade360.co.ke/express-graphql not expired, no request
+275 silly addNameRange number 2 { name: 'express-graphql',
+275 silly addNameRange   range: '>=0.6.12 <0.7.0',
+275 silly addNameRange   hasData: true }
+276 silly addNameRange versions [ 'express-graphql',
+276 silly addNameRange   [ '0.1.0',
+276 silly addNameRange     '0.1.1',
+276 silly addNameRange     '0.2.0',
+276 silly addNameRange     '0.3.0',
+276 silly addNameRange     '0.4.0',
+276 silly addNameRange     '0.4.2',
+276 silly addNameRange     '0.4.3',
+276 silly addNameRange     '0.4.4',
+276 silly addNameRange     '0.4.5',
+276 silly addNameRange     '0.4.6',
+276 silly addNameRange     '0.4.7',
+276 silly addNameRange     '0.4.8',
+276 silly addNameRange     '0.4.9',
+276 silly addNameRange     '0.4.10',
+276 silly addNameRange     '0.4.11',
+276 silly addNameRange     '0.4.12',
+276 silly addNameRange     '0.4.13',
+276 silly addNameRange     '0.5.0',
+276 silly addNameRange     '0.5.1',
+276 silly addNameRange     '0.5.2',
+276 silly addNameRange     '0.5.3',
+276 silly addNameRange     '0.5.4',
+276 silly addNameRange     '0.6.0',
+276 silly addNameRange     '0.6.1',
+276 silly addNameRange     '0.6.2',
+276 silly addNameRange     '0.6.3',
+276 silly addNameRange     '0.6.4',
+276 silly addNameRange     '0.6.5',
+276 silly addNameRange     '0.6.6',
+276 silly addNameRange     '0.6.7',
+276 silly addNameRange     '0.6.11',
+276 silly addNameRange     '0.6.12',
+276 silly addNameRange     '0.7.0',
+276 silly addNameRange     '0.7.1' ] ]
+277 silly addNamed express-graphql@0.6.12
+278 verbose addNamed "0.6.12" is a plain semver version for express-graphql
+279 verbose get https://npmjs.slade360.co.ke/cors not expired, no request
+280 silly addNameRange number 2 { name: 'cors', range: '>=2.8.4 <3.0.0', hasData: true }
+281 silly addNameRange versions [ 'cors',
+281 silly addNameRange   [ '0.0.1',
+281 silly addNameRange     '0.0.2',
+281 silly addNameRange     '0.0.3',
+281 silly addNameRange     '0.0.4',
+281 silly addNameRange     '0.0.5',
+281 silly addNameRange     '0.1.0',
+281 silly addNameRange     '0.1.1',
+281 silly addNameRange     '1.0.0',
+281 silly addNameRange     '1.0.1',
+281 silly addNameRange     '2.0.0',
+281 silly addNameRange     '2.1.0',
+281 silly addNameRange     '2.1.1',
+281 silly addNameRange     '2.2.0',
+281 silly addNameRange     '2.3.0',
+281 silly addNameRange     '2.3.1',
+281 silly addNameRange     '2.3.2',
+281 silly addNameRange     '2.4.0',
+281 silly addNameRange     '2.4.1',
+281 silly addNameRange     '2.4.2',
+281 silly addNameRange     '2.5.0',
+281 silly addNameRange     '2.5.1',
+281 silly addNameRange     '2.5.2',
+281 silly addNameRange     '2.5.3',
+281 silly addNameRange     '2.6.0',
+281 silly addNameRange     '2.6.1',
+281 silly addNameRange     '2.7.0',
+281 silly addNameRange     '2.7.1',
+281 silly addNameRange     '2.7.2',
+281 silly addNameRange     '2.8.0',
+281 silly addNameRange     '2.8.1',
+281 silly addNameRange     '2.8.2',
+281 silly addNameRange     '2.8.3',
+281 silly addNameRange     '2.8.4',
+281 silly addNameRange     '2.8.5' ] ]
+282 silly addNamed cors@2.8.5
+283 verbose addNamed "2.8.5" is a plain semver version for cors
+284 verbose get https://npmjs.slade360.co.ke/graphql not expired, no request
+285 silly addNameRange number 2 { name: 'graphql', range: '>=0.13.2 <0.14.0', hasData: true }
+286 silly addNameRange versions [ 'graphql',
+286 silly addNameRange   [ '0.0.2',
+286 silly addNameRange     '0.1.0',
+286 silly addNameRange     '0.1.1',
+286 silly addNameRange     '0.1.2',
+286 silly addNameRange     '0.1.3',
+286 silly addNameRange     '0.1.4',
+286 silly addNameRange     '0.1.5',
+286 silly addNameRange     '0.1.6',
+286 silly addNameRange     '0.1.7',
+286 silly addNameRange     '0.1.8',
+286 silly addNameRange     '0.1.9',
+286 silly addNameRange     '0.1.10',
+286 silly addNameRange     '0.1.11',
+286 silly addNameRange     '0.1.12',
+286 silly addNameRange     '0.2.0',
+286 silly addNameRange     '0.2.1',
+286 silly addNameRange     '0.2.2',
+286 silly addNameRange     '0.2.3',
+286 silly addNameRange     '0.2.4',
+286 silly addNameRange     '0.2.5',
+286 silly addNameRange     '0.2.6',
+286 silly addNameRange     '0.3.0',
+286 silly addNameRange     '0.4.1',
+286 silly addNameRange     '0.4.2',
+286 silly addNameRange     '0.4.3',
+286 silly addNameRange     '0.4.4',
+286 silly addNameRange     '0.4.5',
+286 silly addNameRange     '0.4.6',
+286 silly addNameRange     '0.4.7',
+286 silly addNameRange     '0.4.8',
+286 silly addNameRange     '0.4.9',
+286 silly addNameRange     '0.4.10',
+286 silly addNameRange     '0.4.11',
+286 silly addNameRange     '0.4.12',
+286 silly addNameRange     '0.4.13',
+286 silly addNameRange     '0.4.14',
+286 silly addNameRange     '0.4.15',
+286 silly addNameRange     '0.4.16',
+286 silly addNameRange     '0.4.17',
+286 silly addNameRange     '0.4.18',
+286 silly addNameRange     '0.5.0-beta.1',
+286 silly addNameRange     '0.5.0',
+286 silly addNameRange     '0.6.0',
+286 silly addNameRange     '0.6.1',
+286 silly addNameRange     '0.6.2',
+286 silly addNameRange     '0.7.0',
+286 silly addNameRange     '0.7.1',
+286 silly addNameRange     '0.7.2',
+286 silly addNameRange     '0.8.0-beta1',
+286 silly addNameRange     '0.8.0-beta2',
+286 silly addNameRange     '0.8.0-beta3',
+286 silly addNameRange     '0.8.0',
+286 silly addNameRange     '0.8.1',
+286 silly addNameRange     '0.8.2',
+286 silly addNameRange     '0.9.0',
+286 silly addNameRange     '0.9.1',
+286 silly addNameRange     '0.9.2',
+286 silly addNameRange     '0.9.3',
+286 silly addNameRange     '0.9.4',
+286 silly addNameRange     '0.9.5',
+286 silly addNameRange     '0.9.6',
+286 silly addNameRange     '0.10.0',
+286 silly addNameRange     '0.10.1',
+286 silly addNameRange     '0.10.2',
+286 silly addNameRange     '0.10.3',
+286 silly addNameRange     '0.10.4',
+286 silly addNameRange     '0.10.5',
+286 silly addNameRange     '0.11.0',
+286 silly addNameRange     '0.11.1',
+286 silly addNameRange     '0.11.2',
+286 silly addNameRange     '0.11.3',
+286 silly addNameRange     '0.11.4',
+286 silly addNameRange     '0.11.5',
+286 silly addNameRange     '0.11.6',
+286 silly addNameRange     '0.11.7',
+286 silly addNameRange     '0.12.0',
+286 silly addNameRange     '0.12.1',
+286 silly addNameRange     '0.12.2',
+286 silly addNameRange     '0.12.3',
+286 silly addNameRange     '0.13.0-rc.1',
+286 silly addNameRange     '0.13.0',
+286 silly addNameRange     '0.13.1',
+286 silly addNameRange     '0.13.2',
+286 silly addNameRange     '14.0.0-rc.1',
+286 silly addNameRange     '14.0.0-rc.2',
+286 silly addNameRange     '14.0.0',
+286 silly addNameRange     '14.0.1',
+286 silly addNameRange     '14.0.2',
+286 silly addNameRange     '14.1.0',
+286 silly addNameRange     '14.1.1',
+286 silly addNameRange     '14.2.0',
+286 silly addNameRange     '14.2.1' ] ]
+287 silly addNamed graphql@0.13.2
+288 verbose addNamed "0.13.2" is a plain semver version for graphql
+289 verbose get https://npmjs.slade360.co.ke/express not expired, no request
+290 silly addNameRange number 2 { name: 'express', range: '>=4.16.3 <5.0.0', hasData: true }
+291 silly addNameRange versions [ 'express',
+291 silly addNameRange   [ '0.14.0',
+291 silly addNameRange     '0.14.1',
+291 silly addNameRange     '1.0.0',
+291 silly addNameRange     '1.0.1',
+291 silly addNameRange     '1.0.2',
+291 silly addNameRange     '1.0.3',
+291 silly addNameRange     '1.0.4',
+291 silly addNameRange     '1.0.5',
+291 silly addNameRange     '1.0.6',
+291 silly addNameRange     '1.0.7',
+291 silly addNameRange     '1.0.8',
+291 silly addNameRange     '2.0.0',
+291 silly addNameRange     '2.1.0',
+291 silly addNameRange     '2.1.1',
+291 silly addNameRange     '2.2.0',
+291 silly addNameRange     '2.2.1',
+291 silly addNameRange     '2.2.2',
+291 silly addNameRange     '2.3.0',
+291 silly addNameRange     '2.3.1',
+291 silly addNameRange     '2.3.2',
+291 silly addNameRange     '2.3.3',
+291 silly addNameRange     '2.3.4',
+291 silly addNameRange     '2.3.5',
+291 silly addNameRange     '2.3.6',
+291 silly addNameRange     '2.3.7',
+291 silly addNameRange     '2.3.8',
+291 silly addNameRange     '2.3.9',
+291 silly addNameRange     '2.3.10',
+291 silly addNameRange     '2.3.11',
+291 silly addNameRange     '2.3.12',
+291 silly addNameRange     '2.4.0',
+291 silly addNameRange     '2.4.1',
+291 silly addNameRange     '2.4.2',
+291 silly addNameRange     '2.4.3',
+291 silly addNameRange     '2.4.4',
+291 silly addNameRange     '2.4.5',
+291 silly addNameRange     '2.4.6',
+291 silly addNameRange     '2.4.7',
+291 silly addNameRange     '2.5.0',
+291 silly addNameRange     '2.5.1',
+291 silly addNameRange     '2.5.2',
+291 silly addNameRange     '2.5.3',
+291 silly addNameRange     '2.5.4',
+291 silly addNameRange     '2.5.5',
+291 silly addNameRange     '2.5.6',
+291 silly addNameRange     '2.5.7',
+291 silly addNameRange     '2.5.8',
+291 silly addNameRange     '2.5.9',
+291 silly addNameRange     '2.5.10',
+291 silly addNameRange     '2.5.11',
+291 silly addNameRange     '3.0.0',
+291 silly addNameRange     '3.0.1',
+291 silly addNameRange     '3.0.2',
+291 silly addNameRange     '3.0.3',
+291 silly addNameRange     '3.0.4',
+291 silly addNameRange     '3.0.5',
+291 silly addNameRange     '3.0.6',
+291 silly addNameRange     '3.1.0',
+291 silly addNameRange     '3.1.1',
+291 silly addNameRange     '3.1.2',
+291 silly addNameRange     '3.2.0',
+291 silly addNameRange     '3.2.1',
+291 silly addNameRange     '3.2.2',
+291 silly addNameRange     '3.2.3',
+291 silly addNameRange     '3.2.4',
+291 silly addNameRange     '3.2.5',
+291 silly addNameRange     '3.2.6',
+291 silly addNameRange     '3.3.0',
+291 silly addNameRange     '3.3.1',
+291 silly addNameRange     '3.3.2',
+291 silly addNameRange     '3.3.3',
+291 silly addNameRange     '3.3.4',
+291 silly addNameRange     '3.3.5',
+291 silly addNameRange     '3.3.6',
+291 silly addNameRange     '1.0.0-beta',
+291 silly addNameRange     '1.0.0-beta2',
+291 silly addNameRange     '1.0.0-rc',
+291 silly addNameRange     '1.0.0-rc2',
+291 silly addNameRange     '1.0.0-rc3',
+291 silly addNameRange     '1.0.0-rc4',
+291 silly addNameRange     '2.0.0-beta',
+291 silly addNameRange     '2.0.0-beta2',
+291 silly addNameRange     '2.0.0-beta3',
+291 silly addNameRange     '2.0.0-rc',
+291 silly addNameRange     '2.0.0-rc2',
+291 silly addNameRange     '2.0.0-rc3',
+291 silly addNameRange     '3.0.0-alpha1',
+291 silly addNameRange     '3.0.0-alpha2',
+291 silly addNameRange     '3.0.0-alpha3',
+291 silly addNameRange     '3.0.0-alpha4',
+291 silly addNameRange     '3.0.0-alpha5',
+291 silly addNameRange     '3.0.0-beta1',
+291 silly addNameRange     '3.0.0-beta2',
+291 silly addNameRange     '3.0.0-beta3',
+291 silly addNameRange     '3.0.0-beta4',
+291 silly addNameRange     '3.0.0-beta6',
+291 silly addNameRange     '3.0.0-beta7',
+291 silly addNameRange     '3.0.0-rc1',
+291 silly addNameRange     '3.0.0-rc2',
+291 silly addNameRange     '3.0.0-rc3',
+291 silly addNameRange     ... 161 more items ] ]
+292 silly addNamed express@4.16.4
+293 verbose addNamed "4.16.4" is a plain semver version for express
+294 silly cache afterAdd cors@2.8.5
+295 verbose afterAdd /home/shikami/.npm/cors/2.8.5/package/package.json not in flight; writing
+296 verbose correctMkdir /home/shikami/.npm correctMkdir not in flight; initializing
+297 silly cache afterAdd express-graphql@0.6.12
+298 verbose afterAdd /home/shikami/.npm/express-graphql/0.6.12/package/package.json not in flight; writing
+299 verbose correctMkdir /home/shikami/.npm correctMkdir not in flight; initializing
+300 silly cache afterAdd graphql@0.13.2
+301 verbose afterAdd /home/shikami/.npm/graphql/0.13.2/package/package.json not in flight; writing
+302 verbose correctMkdir /home/shikami/.npm correctMkdir not in flight; initializing
+303 silly cache afterAdd express@4.16.4
+304 verbose afterAdd /home/shikami/.npm/express/4.16.4/package/package.json not in flight; writing
+305 verbose correctMkdir /home/shikami/.npm correctMkdir not in flight; initializing
+306 silly resolveWithNewModule nodemon@1.18.10 checking installable status
+307 silly cache add args [ 'nodemon@^1.17.4', null ]
+308 verbose cache add spec nodemon@^1.17.4
+309 silly cache add parsed spec Result {
+309 silly cache add   raw: 'nodemon@^1.17.4',
+309 silly cache add   scope: null,
+309 silly cache add   escapedName: 'nodemon',
+309 silly cache add   name: 'nodemon',
+309 silly cache add   rawSpec: '^1.17.4',
+309 silly cache add   spec: '>=1.17.4 <2.0.0',
+309 silly cache add   type: 'range' }
+310 silly addNamed nodemon@>=1.17.4 <2.0.0
+311 verbose addNamed ">=1.17.4 <2.0.0" is a valid semver range for nodemon
+312 silly addNameRange { name: 'nodemon', range: '>=1.17.4 <2.0.0', hasData: false }
+313 silly mapToRegistry name nodemon
+314 silly mapToRegistry using default registry
+315 silly mapToRegistry registry https://npmjs.slade360.co.ke/
+316 silly mapToRegistry data Result {
+316 silly mapToRegistry   raw: 'nodemon',
+316 silly mapToRegistry   scope: null,
+316 silly mapToRegistry   escapedName: 'nodemon',
+316 silly mapToRegistry   name: 'nodemon',
+316 silly mapToRegistry   rawSpec: '',
+316 silly mapToRegistry   spec: 'latest',
+316 silly mapToRegistry   type: 'tag' }
+317 silly mapToRegistry uri https://npmjs.slade360.co.ke/nodemon
+318 verbose addNameRange registry:https://npmjs.slade360.co.ke/nodemon not in flight; fetching
+319 silly resolveWithNewModule lodash@4.17.11 checking installable status
+320 silly cache add args [ 'lodash@^4.17.10', null ]
+321 verbose cache add spec lodash@^4.17.10
+322 silly cache add parsed spec Result {
+322 silly cache add   raw: 'lodash@^4.17.10',
+322 silly cache add   scope: null,
+322 silly cache add   escapedName: 'lodash',
+322 silly cache add   name: 'lodash',
+322 silly cache add   rawSpec: '^4.17.10',
+322 silly cache add   spec: '>=4.17.10 <5.0.0',
+322 silly cache add   type: 'range' }
+323 silly addNamed lodash@>=4.17.10 <5.0.0
+324 verbose addNamed ">=4.17.10 <5.0.0" is a valid semver range for lodash
+325 silly addNameRange { name: 'lodash', range: '>=4.17.10 <5.0.0', hasData: false }
+326 silly mapToRegistry name lodash
+327 silly mapToRegistry using default registry
+328 silly mapToRegistry registry https://npmjs.slade360.co.ke/
+329 silly mapToRegistry data Result {
+329 silly mapToRegistry   raw: 'lodash',
+329 silly mapToRegistry   scope: null,
+329 silly mapToRegistry   escapedName: 'lodash',
+329 silly mapToRegistry   name: 'lodash',
+329 silly mapToRegistry   rawSpec: '',
+329 silly mapToRegistry   spec: 'latest',
+329 silly mapToRegistry   type: 'tag' }
+330 silly mapToRegistry uri https://npmjs.slade360.co.ke/lodash
+331 verbose addNameRange registry:https://npmjs.slade360.co.ke/lodash not in flight; fetching
+332 silly resolveWithNewModule mongoose@5.4.21 checking installable status
+333 silly cache add args [ 'mongoose@^5.1.2', null ]
+334 verbose cache add spec mongoose@^5.1.2
+335 silly cache add parsed spec Result {
+335 silly cache add   raw: 'mongoose@^5.1.2',
+335 silly cache add   scope: null,
+335 silly cache add   escapedName: 'mongoose',
+335 silly cache add   name: 'mongoose',
+335 silly cache add   rawSpec: '^5.1.2',
+335 silly cache add   spec: '>=5.1.2 <6.0.0',
+335 silly cache add   type: 'range' }
+336 silly addNamed mongoose@>=5.1.2 <6.0.0
+337 verbose addNamed ">=5.1.2 <6.0.0" is a valid semver range for mongoose
+338 silly addNameRange { name: 'mongoose', range: '>=5.1.2 <6.0.0', hasData: false }
+339 silly mapToRegistry name mongoose
+340 silly mapToRegistry using default registry
+341 silly mapToRegistry registry https://npmjs.slade360.co.ke/
+342 silly mapToRegistry data Result {
+342 silly mapToRegistry   raw: 'mongoose',
+342 silly mapToRegistry   scope: null,
+342 silly mapToRegistry   escapedName: 'mongoose',
+342 silly mapToRegistry   name: 'mongoose',
+342 silly mapToRegistry   rawSpec: '',
+342 silly mapToRegistry   spec: 'latest',
+342 silly mapToRegistry   type: 'tag' }
+343 silly mapToRegistry uri https://npmjs.slade360.co.ke/mongoose
+344 verbose addNameRange registry:https://npmjs.slade360.co.ke/mongoose not in flight; fetching
+345 verbose afterAdd /home/shikami/.npm/cors/2.8.5/package/package.json written
+346 verbose get https://npmjs.slade360.co.ke/lodash not expired, no request
+347 silly addNameRange number 2 { name: 'lodash', range: '>=4.17.10 <5.0.0', hasData: true }
+348 silly addNameRange versions [ 'lodash',
+348 silly addNameRange   [ '0.1.0',
+348 silly addNameRange     '0.2.0',
+348 silly addNameRange     '0.2.1',
+348 silly addNameRange     '0.2.2',
+348 silly addNameRange     '0.3.0',
+348 silly addNameRange     '0.3.1',
+348 silly addNameRange     '0.3.2',
+348 silly addNameRange     '0.4.0',
+348 silly addNameRange     '0.4.1',
+348 silly addNameRange     '0.4.2',
+348 silly addNameRange     '0.5.0-rc.1',
+348 silly addNameRange     '0.5.0',
+348 silly addNameRange     '0.5.1',
+348 silly addNameRange     '0.5.2',
+348 silly addNameRange     '0.6.0',
+348 silly addNameRange     '0.6.1',
+348 silly addNameRange     '0.7.0',
+348 silly addNameRange     '0.8.0',
+348 silly addNameRange     '0.8.1',
+348 silly addNameRange     '0.8.2',
+348 silly addNameRange     '0.9.0',
+348 silly addNameRange     '0.9.1',
+348 silly addNameRange     '0.9.2',
+348 silly addNameRange     '0.10.0',
+348 silly addNameRange     '1.0.0-rc.1',
+348 silly addNameRange     '1.0.0-rc.2',
+348 silly addNameRange     '1.0.0-rc.3',
+348 silly addNameRange     '1.0.0',
+348 silly addNameRange     '1.0.1',
+348 silly addNameRange     '1.1.0',
+348 silly addNameRange     '1.1.1',
+348 silly addNameRange     '1.2.0',
+348 silly addNameRange     '1.2.1',
+348 silly addNameRange     '1.3.0',
+348 silly addNameRange     '1.3.1',
+348 silly addNameRange     '2.0.0',
+348 silly addNameRange     '2.1.0',
+348 silly addNameRange     '2.2.0',
+348 silly addNameRange     '2.2.1',
+348 silly addNameRange     '2.3.0',
+348 silly addNameRange     '2.4.0',
+348 silly addNameRange     '2.4.1',
+348 silly addNameRange     '3.0.0',
+348 silly addNameRange     '3.0.1',
+348 silly addNameRange     '3.1.0',
+348 silly addNameRange     '3.2.0',
+348 silly addNameRange     '3.3.0',
+348 silly addNameRange     '3.3.1',
+348 silly addNameRange     '3.4.0',
+348 silly addNameRange     '3.5.0',
+348 silly addNameRange     '3.6.0',
+348 silly addNameRange     '1.0.2',
+348 silly addNameRange     '3.7.0',
+348 silly addNameRange     '2.4.2',
+348 silly addNameRange     '3.8.0',
+348 silly addNameRange     '3.9.0',
+348 silly addNameRange     '3.9.1',
+348 silly addNameRange     '3.9.2',
+348 silly addNameRange     '3.9.3',
+348 silly addNameRange     '3.10.0',
+348 silly addNameRange     '3.10.1',
+348 silly addNameRange     '4.0.0',
+348 silly addNameRange     '4.0.1',
+348 silly addNameRange     '4.1.0',
+348 silly addNameRange     '4.2.0',
+348 silly addNameRange     '4.2.1',
+348 silly addNameRange     '4.3.0',
+348 silly addNameRange     '4.4.0',
+348 silly addNameRange     '4.5.0',
+348 silly addNameRange     '4.5.1',
+348 silly addNameRange     '4.6.0',
+348 silly addNameRange     '4.6.1',
+348 silly addNameRange     '4.7.0',
+348 silly addNameRange     '4.8.0',
+348 silly addNameRange     '4.8.1',
+348 silly addNameRange     '4.8.2',
+348 silly addNameRange     '4.9.0',
+348 silly addNameRange     '4.10.0',
+348 silly addNameRange     '4.11.0',
+348 silly addNameRange     '4.11.1',
+348 silly addNameRange     '4.11.2',
+348 silly addNameRange     '4.12.0',
+348 silly addNameRange     '4.13.0',
+348 silly addNameRange     '4.13.1',
+348 silly addNameRange     '4.14.0',
+348 silly addNameRange     '4.14.1',
+348 silly addNameRange     '4.14.2',
+348 silly addNameRange     '4.15.0',
+348 silly addNameRange     '4.16.0',
+348 silly addNameRange     '4.16.1',
+348 silly addNameRange     '4.16.2',
+348 silly addNameRange     '4.16.3',
+348 silly addNameRange     '4.16.4',
+348 silly addNameRange     '4.16.5',
+348 silly addNameRange     '4.16.6',
+348 silly addNameRange     '4.17.0',
+348 silly addNameRange     '4.17.1',
+348 silly addNameRange     '4.17.2',
+348 silly addNameRange     '4.17.3',
+348 silly addNameRange     '4.17.4',
+348 silly addNameRange     ... 4 more items ] ]
+349 silly addNamed lodash@4.17.11
+350 verbose addNamed "4.17.11" is a plain semver version for lodash
+351 verbose get https://npmjs.slade360.co.ke/nodemon not expired, no request
+352 silly addNameRange number 2 { name: 'nodemon', range: '>=1.17.4 <2.0.0', hasData: true }
+353 silly addNameRange versions [ 'nodemon',
+353 silly addNameRange   [ '0.1.4',
+353 silly addNameRange     '0.1.5',
+353 silly addNameRange     '0.1.6',
+353 silly addNameRange     '0.1.7',
+353 silly addNameRange     '0.1.8',
+353 silly addNameRange     '0.2.0',
+353 silly addNameRange     '0.2.1',
+353 silly addNameRange     '0.2.2',
+353 silly addNameRange     '0.3.0',
+353 silly addNameRange     '0.3.1',
+353 silly addNameRange     '0.3.2',
+353 silly addNameRange     '0.4.0',
+353 silly addNameRange     '0.4.1',
+353 silly addNameRange     '0.5.0',
+353 silly addNameRange     '0.5.1',
+353 silly addNameRange     '0.5.2',
+353 silly addNameRange     '0.5.3',
+353 silly addNameRange     '0.5.4',
+353 silly addNameRange     '0.5.5',
+353 silly addNameRange     '0.5.6',
+353 silly addNameRange     '0.5.7',
+353 silly addNameRange     '0.6.0',
+353 silly addNameRange     '0.6.1',
+353 silly addNameRange     '0.6.2',
+353 silly addNameRange     '0.6.3',
+353 silly addNameRange     '0.6.4',
+353 silly addNameRange     '0.6.5',
+353 silly addNameRange     '0.6.6',
+353 silly addNameRange     '0.6.7',
+353 silly addNameRange     '0.6.8',
+353 silly addNameRange     '0.6.9',
+353 silly addNameRange     '0.6.10',
+353 silly addNameRange     '0.6.11',
+353 silly addNameRange     '0.6.12',
+353 silly addNameRange     '0.6.13',
+353 silly addNameRange     '0.6.14',
+353 silly addNameRange     '0.6.15',
+353 silly addNameRange     '0.6.16',
+353 silly addNameRange     '0.6.17',
+353 silly addNameRange     '0.6.18',
+353 silly addNameRange     '0.6.19',
+353 silly addNameRange     '0.6.20',
+353 silly addNameRange     '0.6.21',
+353 silly addNameRange     '0.6.22',
+353 silly addNameRange     '0.6.23',
+353 silly addNameRange     '0.7.0',
+353 silly addNameRange     '0.7.1',
+353 silly addNameRange     '0.7.2',
+353 silly addNameRange     '0.7.3',
+353 silly addNameRange     '0.7.4',
+353 silly addNameRange     '0.7.5',
+353 silly addNameRange     '0.7.6',
+353 silly addNameRange     '0.7.7',
+353 silly addNameRange     '0.7.8',
+353 silly addNameRange     '0.7.10',
+353 silly addNameRange     '0.9.0',
+353 silly addNameRange     '0.9.1',
+353 silly addNameRange     '0.9.2',
+353 silly addNameRange     '0.9.3',
+353 silly addNameRange     '0.9.5',
+353 silly addNameRange     '0.9.6',
+353 silly addNameRange     '0.9.7',
+353 silly addNameRange     '0.9.10',
+353 silly addNameRange     '0.9.11',
+353 silly addNameRange     '0.9.12',
+353 silly addNameRange     '0.9.14',
+353 silly addNameRange     '0.9.16',
+353 silly addNameRange     '0.9.17',
+353 silly addNameRange     '1.0.0',
+353 silly addNameRange     '1.0.1',
+353 silly addNameRange     '1.0.2',
+353 silly addNameRange     '1.0.2-rc',
+353 silly addNameRange     '0.6.10-a',
+353 silly addNameRange     '1.0.2-rc3',
+353 silly addNameRange     '1.0.2-rc4',
+353 silly addNameRange     '1.0.3',
+353 silly addNameRange     '1.0.4',
+353 silly addNameRange     '1.0.5',
+353 silly addNameRange     '1.0.6',
+353 silly addNameRange     '1.0.7',
+353 silly addNameRange     '1.0.8',
+353 silly addNameRange     '1.0.9',
+353 silly addNameRange     '1.0.10',
+353 silly addNameRange     '1.0.11',
+353 silly addNameRange     '1.0.12',
+353 silly addNameRange     '1.0.13',
+353 silly addNameRange     '1.0.14',
+353 silly addNameRange     '1.0.15',
+353 silly addNameRange     '1.0.16',
+353 silly addNameRange     '1.0.17-rc1',
+353 silly addNameRange     '1.0.17-rc2',
+353 silly addNameRange     '1.0.17',
+353 silly addNameRange     '1.0.18',
+353 silly addNameRange     '1.0.19',
+353 silly addNameRange     '1.0.20',
+353 silly addNameRange     '1.1.0-alpha',
+353 silly addNameRange     '1.1.0',
+353 silly addNameRange     '1.1.1',
+353 silly addNameRange     '1.2.0',
+353 silly addNameRange     '1.2.1',
+353 silly addNameRange     ... 101 more items ] ]
+354 silly addNamed nodemon@1.18.10
+355 verbose addNamed "1.18.10" is a plain semver version for nodemon
+356 verbose afterAdd /home/shikami/.npm/graphql/0.13.2/package/package.json written
+357 verbose afterAdd /home/shikami/.npm/express-graphql/0.6.12/package/package.json written
+358 verbose afterAdd /home/shikami/.npm/express/4.16.4/package/package.json written
+359 verbose get https://npmjs.slade360.co.ke/mongoose not expired, no request
+360 silly addNameRange number 2 { name: 'mongoose', range: '>=5.1.2 <6.0.0', hasData: true }
+361 silly addNameRange versions [ 'mongoose',
+361 silly addNameRange   [ '0.0.1',
+361 silly addNameRange     '0.0.2',
+361 silly addNameRange     '0.0.3',
+361 silly addNameRange     '0.0.4',
+361 silly addNameRange     '0.0.5',
+361 silly addNameRange     '1.0.0',
+361 silly addNameRange     '1.0.1',
+361 silly addNameRange     '1.0.2',
+361 silly addNameRange     '0.0.6',
+361 silly addNameRange     '1.0.3',
+361 silly addNameRange     '1.0.4',
+361 silly addNameRange     '1.0.5',
+361 silly addNameRange     '1.0.6',
+361 silly addNameRange     '1.0.7',
+361 silly addNameRange     '1.0.8',
+361 silly addNameRange     '1.0.10',
+361 silly addNameRange     '1.0.11',
+361 silly addNameRange     '1.0.12',
+361 silly addNameRange     '1.0.13',
+361 silly addNameRange     '1.0.14',
+361 silly addNameRange     '1.0.15',
+361 silly addNameRange     '1.0.16',
+361 silly addNameRange     '1.1.0',
+361 silly addNameRange     '1.1.1',
+361 silly addNameRange     '1.1.2',
+361 silly addNameRange     '1.1.3',
+361 silly addNameRange     '1.1.4',
+361 silly addNameRange     '1.1.5',
+361 silly addNameRange     '1.1.6',
+361 silly addNameRange     '1.1.7',
+361 silly addNameRange     '1.1.8',
+361 silly addNameRange     '1.1.9',
+361 silly addNameRange     '1.1.10',
+361 silly addNameRange     '1.1.11',
+361 silly addNameRange     '1.1.12',
+361 silly addNameRange     '1.1.13',
+361 silly addNameRange     '1.1.14',
+361 silly addNameRange     '1.1.15',
+361 silly addNameRange     '1.1.16',
+361 silly addNameRange     '1.1.17',
+361 silly addNameRange     '1.1.18',
+361 silly addNameRange     '1.1.19',
+361 silly addNameRange     '1.1.20',
+361 silly addNameRange     '1.1.21',
+361 silly addNameRange     '1.1.22',
+361 silly addNameRange     '1.1.23',
+361 silly addNameRange     '1.1.24',
+361 silly addNameRange     '1.1.25',
+361 silly addNameRange     '1.2.0',
+361 silly addNameRange     '1.3.0',
+361 silly addNameRange     '1.3.1',
+361 silly addNameRange     '1.3.2',
+361 silly addNameRange     '1.3.3',
+361 silly addNameRange     '1.3.4',
+361 silly addNameRange     '1.3.5',
+361 silly addNameRange     '1.3.6',
+361 silly addNameRange     '1.3.7',
+361 silly addNameRange     '1.4.0',
+361 silly addNameRange     '1.5.0',
+361 silly addNameRange     '1.6.0',
+361 silly addNameRange     '1.7.2',
+361 silly addNameRange     '1.7.3',
+361 silly addNameRange     '1.7.4',
+361 silly addNameRange     '1.8.0',
+361 silly addNameRange     '1.8.1',
+361 silly addNameRange     '1.8.2',
+361 silly addNameRange     '1.8.3',
+361 silly addNameRange     '1.8.4',
+361 silly addNameRange     '2.0.0',
+361 silly addNameRange     '2.0.1',
+361 silly addNameRange     '2.0.2',
+361 silly addNameRange     '2.0.3',
+361 silly addNameRange     '2.0.4',
+361 silly addNameRange     '2.1.0',
+361 silly addNameRange     '2.1.1',
+361 silly addNameRange     '2.1.2',
+361 silly addNameRange     '2.1.3',
+361 silly addNameRange     '2.1.4',
+361 silly addNameRange     '2.2.0',
+361 silly addNameRange     '2.2.1',
+361 silly addNameRange     '2.2.2',
+361 silly addNameRange     '2.2.3',
+361 silly addNameRange     '2.2.4',
+361 silly addNameRange     '2.3.0',
+361 silly addNameRange     '2.3.1',
+361 silly addNameRange     '2.3.2',
+361 silly addNameRange     '2.3.3',
+361 silly addNameRange     '2.3.4',
+361 silly addNameRange     '2.3.5',
+361 silly addNameRange     '2.3.6',
+361 silly addNameRange     '2.3.7',
+361 silly addNameRange     '2.3.8',
+361 silly addNameRange     '2.3.9',
+361 silly addNameRange     '2.3.10',
+361 silly addNameRange     '2.3.11',
+361 silly addNameRange     '2.3.12',
+361 silly addNameRange     '2.3.13',
+361 silly addNameRange     '2.4.0',
+361 silly addNameRange     '2.4.1',
+361 silly addNameRange     '2.4.2',
+361 silly addNameRange     ... 412 more items ] ]
+362 silly addNamed mongoose@5.4.21
+363 verbose addNamed "5.4.21" is a plain semver version for mongoose
+364 silly cache afterAdd lodash@4.17.11
+365 verbose afterAdd /home/shikami/.npm/lodash/4.17.11/package/package.json not in flight; writing
+366 verbose correctMkdir /home/shikami/.npm correctMkdir not in flight; initializing
+367 silly cache afterAdd nodemon@1.18.10
+368 verbose afterAdd /home/shikami/.npm/nodemon/1.18.10/package/package.json not in flight; writing
+369 verbose correctMkdir /home/shikami/.npm correctMkdir not in flight; initializing
+370 silly cache afterAdd mongoose@5.4.21
+371 verbose afterAdd /home/shikami/.npm/mongoose/5.4.21/package/package.json not in flight; writing
+372 verbose correctMkdir /home/shikami/.npm correctMkdir not in flight; initializing
+373 verbose afterAdd /home/shikami/.npm/nodemon/1.18.10/package/package.json written
+374 verbose afterAdd /home/shikami/.npm/lodash/4.17.11/package/package.json written
+375 verbose afterAdd /home/shikami/.npm/mongoose/5.4.21/package/package.json written
+376 silly rollbackFailedOptional Starting
+377 silly rollbackFailedOptional Finishing
+378 silly runTopLevelLifecycles Finishing
+379 silly install printInstalled
+380 verbose stack Error: getaddrinfo EAI_AGAIN npmjs.slade360.co.ke:443
+380 verbose stack     at Object.exports._errnoException (util.js:1026:11)
+380 verbose stack     at errnoException (dns.js:33:15)
+380 verbose stack     at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:76:26)
+381 verbose cwd /home/shikami/MEGA/Projects/MAIN/Web/hit-server
+382 error Linux 5.0.0-15-generic
+383 error argv "/home/shikami/.nvm/versions/node/v6.8.0/bin/node" "/home/shikami/.nvm/versions/node/v6.8.0/bin/npm" "install"
+384 error node v6.8.0
+385 error npm  v3.10.8
+386 error code EAI_AGAIN
+387 error errno EAI_AGAIN
+388 error syscall getaddrinfo
+389 error getaddrinfo EAI_AGAIN npmjs.slade360.co.ke:443
+390 error If you need help, you may report this error at:
+390 error     <https://github.com/npm/npm/issues>
+391 verbose exit [ 1, true ]
